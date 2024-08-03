@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>remove my bad teeth</title>
+    <link href="/blog/2024/08/03/teeth-removal/"/>
+    <url>/blog/2024/08/03/teeth-removal/</url>
+    
+    <content type="html"><![CDATA[<p>Today I had my bad teeth removed!</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>My First Blog</title>
     <link href="/blog/2024/07/29/My-First-Blog/"/>
     <url>/blog/2024/07/29/My-First-Blog/</url>
@@ -21,7 +34,7 @@
     <link href="/blog/2024/07/26/test/"/>
     <url>/blog/2024/07/26/test/</url>
     
-    <content type="html"><![CDATA[<p>This is a lavacake!</p><img src="/blog/2024/07/26/test/lavacake.jpg" class="" title="lava cake">]]></content>
+    <content type="html"><![CDATA[<p>This is a lavacake!</p><img src="lavacake.jpg" width="100" height="100" alt="lava cake" title="lava cake" />]]></content>
     
     
     
